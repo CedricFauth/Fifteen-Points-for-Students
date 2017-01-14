@@ -10,7 +10,7 @@ __Requirements:__ The program is the "fifteenPoints.jar"-file and it requires a 
 
 __Platforms:__ Java is available for Win/Linux/Mac and other platforms, but the current version of 15 Points only works on Windows 32bit/64bit.
 
-__Project Members:__ Cedric Fauth
+__Project Members:__ Cedric Fauth and others who don't want to be called.
 
 
 ### MIT LICENSE 
