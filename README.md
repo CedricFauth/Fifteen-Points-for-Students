@@ -4,6 +4,8 @@
 
 ## General Informations:
 
+__Website:__ https://cedricfauth.github.io/Fifteen-Points-for-Students/
+
 __License:__ MIT License
 
 __Requirements:__ The program is the "fifteenPoints.jar"-file and it requires a version of JAVA 8 or higher (I think the most PCs have                      Java today, but you can download it for free on this site: https://java.com/de/download/).
