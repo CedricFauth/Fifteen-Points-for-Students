@@ -1,6 +1,7 @@
 # Fifteen Points for Students
 15 Points ist ein Programm, dass wir für (Oberstufen) SchülerInnen entwickelt haben, damit sie ihren Notenschnitt berechnen können.
 
+## Download coming soon!
 
 ## General Informations:
 
