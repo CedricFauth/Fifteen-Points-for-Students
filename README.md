@@ -13,7 +13,7 @@ __Platforms:__ Java is available for Win/Linux/Mac and other platforms, but the 
 __Project Members:__ Cedric Fauth and others who don't want to be called.
 
 
-### MIT LICENSE 
+## MIT LICENSE 
 
 Copyright (c) 2017 Cedric Fauth
 
