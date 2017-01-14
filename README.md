@@ -4,13 +4,13 @@
 
 ## General Informations:
 
-__License: MIT License__
+__License:__ MIT License
 
-__Requirements: The program is the "fifteenPoints.jar"-file and it requires a version of JAVA 8 or higher (I think the most PCs have                      Java today, but you can download it for free on this site: https://java.com/de/download/).__
+__Requirements:__ The program is the "fifteenPoints.jar"-file and it requires a version of JAVA 8 or higher (I think the most PCs have                      Java today, but you can download it for free on this site: https://java.com/de/download/).
 
-__Platforms: Java is available for Win/Linux/Mac and other platforms, but the current version of 15 Points only works on Windows 32bit/64bit.__
+__Platforms:__ Java is available for Win/Linux/Mac and other platforms, but the current version of 15 Points only works on Windows 32bit/64bit.
 
-__Project Members: COMING SOON__
+__Project Members:__ Cedric Fauth
 
 
 ### MIT LICENSE 
