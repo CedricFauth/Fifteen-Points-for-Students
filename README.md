@@ -1,4 +1,4 @@
-# Fifteen Points for Students ![alt text](https://github.com/CedricFauth/Fifteen-Points-for-Students/blob/master/icon.png "Logo Title Text 1")
+# ![alt text](https://github.com/CedricFauth/Fifteen-Points-for-Students/blob/master/icon.png "Logo Title Text 1") Fifteen Points for Students
 15 Points ist ein Programm, dass wir für (Oberstufen) SchülerInnen entwickelt haben, damit sie ihren Notenschnitt berechnen können.
 
 ## Download
