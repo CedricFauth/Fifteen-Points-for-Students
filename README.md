@@ -3,7 +3,7 @@
 
 ## Download
 
-__https://codeload.github.com/CedricFauth/Fifteen-Points-for-Students/zip/master__
+__https://codeload.github.com/CedricFauth/Fifteen-Points-for-Students/zip/1.0a__
 
 ## General Informations:
 
