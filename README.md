@@ -11,7 +11,7 @@ __Website:__ https://cedricfauth.github.io/Fifteen-Points-for-Students/
 
 __License:__ MIT License
 
-__Requirements:__ The program's name is "15 Points.exe" and it is in the "extract this folder.zip"-archive.
+__How to run:__ The program's name is "15 Points.exe" and it is in the "extract this folder.zip"-archive.
 
 __Platforms:__ Java is available for Win/Linux/Mac and other platforms, but the current version of 15 Points only works on Windows 32bit/64bit.
 
