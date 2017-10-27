@@ -1,6 +1,6 @@
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
-
 # ![alt text](https://github.com/CedricFauth/Fifteen-Points-for-Students/blob/master/icon.png "Logo Title Text 1") Fifteen Points for Students
+
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/CedricFauth/Fifteen-Points-for-Students/releases)
 
 15 Points ist ein Programm, dass wir für (Oberstufen) Schülerinnen und Schüler entwickelt haben, damit diese dort all ihre Noten speichern und ihren Schnitt berechnen können.
 
